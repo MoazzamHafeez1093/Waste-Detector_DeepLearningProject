@@ -1,0 +1,62 @@
+# Exclude specific files as requested
+Deep Learning for Perception-Semester Project.md
+Untitled2.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch models (large files)
+*.pth
+*.pt
+*.ckpt
+
+# Dataset files (too large)
+data/
+dataset/
+taco_data/
+yolo_dataset/
+*.zip
+
+# Training outputs
+runs/
+outputs/
+checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
