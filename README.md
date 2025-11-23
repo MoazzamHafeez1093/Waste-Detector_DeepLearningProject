@@ -27,7 +27,7 @@ This project implements **waste object detection** using deep learning technique
 ## 🏗️ Project Structure
 ```
 Waste-Detector_DeepLearningProject/
-├── Final_Project_DL.ipynb          # Main project notebook
+├── Final_Project_DL.ipynb          # Main project notebook (137MB - see Google Colab link below)
 ├── Deep Learning for Perception-Semester Project.pdf  # Project requirements
 ├── yolo_results/                   # YOLO training results and visualizations
 │   └── detect/
@@ -35,10 +35,16 @@ Waste-Detector_DeepLearningProject/
 │       ├── yolo_with_aug_v2/      # Results with augmentation
 │       ├── val/                    # Validation predictions
 │       └── val2/                   # Additional validation
-├── unet_taco_final.pth            # Trained U-Net model weights
+├── unet_taco_final.pth            # Trained U-Net model weights (not included - too large)
 ├── README.md                       # This file
 └── .gitignore                      # Git ignore rules
 ```
+
+## 📓 Access the Main Notebook
+Due to GitHub's 100MB file size limit, the main project notebook is available on Google Colab:
+- **Open in Colab**: [Add your Colab link here after uploading]
+- **File**: `Final_Project_DL.ipynb` (137.5 MB)
+- The notebook is also available in the local repository for running on Google Colab
 
 ## 🚀 Implementation Details
 
