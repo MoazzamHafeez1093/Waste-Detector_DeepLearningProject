@@ -2,9 +2,6 @@
 Deep Learning for Perception-Semester Project.md
 Untitled2.ipynb
 
-# Large notebook file (too large for GitHub - share via Google Drive)
-Final_Project_DL.ipynb
-
 # Python
 __pycache__/
 *.py[cod]
@@ -30,10 +27,10 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# PyTorch models (large files)
-*.pth
-*.pt
-*.ckpt
+# PyTorch models - NOW USING GIT LFS FOR LARGE FILES
+# *.pth files are tracked by Git LFS
+# *.pt files from training runs
+
 
 # Dataset files (too large)
 data/
