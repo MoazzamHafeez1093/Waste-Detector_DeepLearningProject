@@ -84,12 +84,12 @@ Waste-Detector_DeepLearningProject/
 
 **⚠️ Important:** The main project notebook `Final_Project_DL.ipynb` is **137.5 MB** and exceeds GitHub's 100MB file size limit.
 
-### Option 1: Google Colab (Recommended)
-- **Open in Colab**: [🔗 Add your Colab link here after uploading]
+### Google Colab (Recommended)
+- **Open in Colab**: https://colab.research.google.com/drive/1sowN1tTBnrW8wbZR2eJ7VPhnqgTly9ex?usp=sharing
 - Upload the notebook to Google Drive and open with Google Colaboratory
 - All code is ready to run in Colab environment
 
-### Option 2: Local Execution
+### Local Execution
 - Clone this repository
 - The notebook is excluded from Git but available locally if you have the original file
 - Requires CUDA-capable GPU with 11+ GB VRAM
@@ -395,15 +395,6 @@ This project is developed for academic purposes as part of the CS4045 course req
 - **U-Net:** Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks for Biomedical Image Segmentation"
 - **Instructor:** Dr. Ahmad Raza Shahid for course guidance and project supervision
 - **Community:** Kaggle and PyTorch communities for resources and support
-
----
-
-## 📚 References
-
-1. Proença, P. F., & Simões, P. (2020). TACO: Trash Annotations in Context for Litter Detection. arXiv preprint arXiv:2003.06975.
-2. Jocher, G., et al. (2023). Ultralytics YOLOv8. https://github.com/ultralytics/ultralytics
-3. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI 2015.
-4. Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. arXiv preprint arXiv:1804.02767.
 
 ---
 
